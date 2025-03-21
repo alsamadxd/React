@@ -1,0 +1,14 @@
+nav,ul{
+    display: flex;
+
+}
+ul{
+    list-style: none;
+    gap: 2rem;
+    
+}
+nav{
+    padding: 2rem;
+    background: #427;
+    color: wheat;
+}
