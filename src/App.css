@@ -1,3 +1,7 @@
 body{
   background: rgb(219, 171, 171);
 }
+.btn{
+  margin-left: 47%;
+  padding: 2rem;
+}
