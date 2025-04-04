@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    display: flex;
+    gap: 3rem;
+    background: #131212;
+}
+li{
+    list-style: none;
+    padding: 2rem;
+}
+a li{
+    color: white;
+}
+.red{
+    background: rgb(102, 63, 63);
+}
